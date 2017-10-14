@@ -1,0 +1,4 @@
+C:\MHacks\HoloHealth\Build\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\MHacks\HoloHealth\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\MHacks\HoloHealth\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\MHacks\HoloHealth\Build\HoloHealth\HoloHealth.csproj;x86
